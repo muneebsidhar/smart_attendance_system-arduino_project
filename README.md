@@ -148,11 +148,8 @@ You can also add a circuit diagram or photo of your setup here.
 
 ## 👤 Author
 
-**Muneeb Sidhar** (Muneeb Ur Rehman Sidhar)
+Muneeb Ur Rehman Sidhar
 Computer Science, University of Engineering and Technology (UET), Taxila
 
 ---
 
-## 📜 License
-
-This project is for educational purposes. You can add a license of your choice (for example, MIT) to this repository.
